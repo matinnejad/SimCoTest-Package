@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<body>
+  <RandomExplorationAlgorithm>AdaptiveRandomSearch</RandomExplorationAlgorithm>
+  <EscapeRandomExploration>False</EscapeRandomExploration>
+  <LocalSearchAlgorithm>HillClimbing</LocalSearchAlgorithm>
+  <AlgorithmIterations>200</AlgorithmIterations>
+  <AlgorithmRounds>1</AlgorithmRounds>
+  <AlgorithmType>Exploitative</AlgorithmType>
+</body>

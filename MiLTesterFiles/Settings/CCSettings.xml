@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<body>
+  <HeatMapDiagramDivisionFactor>10</HeatMapDiagramDivisionFactor>
+  <NumberOfPointsInEachRegion>10</NumberOfPointsInEachRegion>
+  <ReportPotentialAnomalies>true</ReportPotentialAnomalies>
+  <ReportWorstTestCases>true</ReportWorstTestCases>
+  <NumberOfWorstTestCases>2</NumberOfWorstTestCases>
+  <IncludeOrExcludeRegions>false</IncludeOrExcludeRegions>
+  <UnionOrIntersectionOfSliders>true</UnionOrIntersectionOfSliders>
+  <Requirement>Stability</Requirement>
+  <Requirement>Liveness</Requirement>
+  <Requirement>Smoothness</Requirement>
+  <Requirement>NormalizedSmoothness</Requirement>
+  <Requirement>Responsiveness</Requirement>
+</body>

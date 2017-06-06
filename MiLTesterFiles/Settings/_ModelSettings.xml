@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<body>
+  <MatlabExePath>E:\Program Files\MATLAB\R2015b\bin\matlab.exe</MatlabExePath>
+  <SimulinkModelPath>E:\SBPC\SCPC-SLSF\M\EMS_Core\_SBPC\Autocode\scpc-Muts-Demo\Anonymized_Mu001_01.mdl</SimulinkModelPath>
+  <MatlabScript>E:\SBPC\SCPC\M\EMS_Core\_SBPC\Function\Simulation\SuperchargerControl\LoadModelWithWorkspaceXML.m</MatlabScript>
+  <MatlabScript>E:\SBPC\SCPC\M\EMS_Core\_SBPC\Function\Simulation\SuperchargerControl\SimSBPC_Init.m</MatlabScript>
+  <MatlabPath>E:\MiLTesterFiles\Code\Functions\Common</MatlabPath>
+  <MatlabPath>E:\SBPC\SCPC-SLSF\M\EMS_Core\_SBPC\Autocode\LegCode</MatlabPath>
+  <MatlabPath>E:\SBPC\SCPC-SLSF\M\EMS_Core\_SBPC\Function\Simulation\SuperchargerControl</MatlabPath>
+</body>

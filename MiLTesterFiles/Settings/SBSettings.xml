@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<body>
+  <Criterion>
+    <Name>Diversity</Name>
+    <Budget>5</Budget>
+  </Criterion>
+  <Criterion>
+    <Name>Stability</Name>
+    <Budget>3</Budget>
+  </Criterion>
+  <Criterion>
+    <Name>Continuity</Name>
+    <Budget>1</Budget>
+  </Criterion>
+</body>

@@ -1,0 +1,23 @@
+ 
+ ******* Initialization of Simulink-Model for EMB-Example No. 1 ******* 
+ Modeling and parameterization ... 
+ ... modeling done! 
+ Feedforward control ... 
+ ... feedforward control done! 
+ Observer design ... 
+ ... identity observer 
+   * Model may not be observable!                              *
+   * Numerical rank estimation of observability matrix failed. * 
+ ... reduced order observer for case 1 
+ ... reduced order observer for case 2 
+ ... observer done! 
+ Feedback control ... 
+ ... feedback control done! 
+ ******* DONE! ************************************************************** 
+MinVal
+MinVal
+MinVal
+MinVal
+MinVal
+MinVal
+MinVal
